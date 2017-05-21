@@ -6,3 +6,5 @@ suits = ['Diamonds','Hearts','Clubs','Spades']
 puts "#{values.sample} of #{suits.sample}"
 
 puts "Вася Ушлепкин был тут"
+
+puts "А что Вася тут делал?"
